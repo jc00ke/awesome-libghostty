@@ -8,4 +8,5 @@ A curated list of awesome projects and products built with [libghostty](https://
 
 ## Terminals
 
+- [cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [Ghostty](https://ghostty.org/) - a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
