@@ -4,7 +4,12 @@ A curated list of awesome projects and products built with [libghostty](https://
 
 ## Contents
 
+- [SSH](#ssh)
 - [Terminals](#terminals)
+
+## SSH
+
+- [Echo](https://replay.software/echo) - a fast & modern SSH + Mosh client for iOS & iPadOS that makes the mobile terminal a pleasure.
 
 ## Terminals
 
