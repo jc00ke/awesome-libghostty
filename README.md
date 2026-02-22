@@ -4,8 +4,13 @@ A curated list of awesome projects and products built with [libghostty](https://
 
 ## Contents
 
+- [Runtimes](#runtimes)
 - [SSH](#ssh)
 - [Terminals](#terminals)
+
+## Runtimes
+
+- [Trolley](https://github.com/weedonandscott/trolley) - packages your TUI app as a cross-platform desktop application.
 
 ## SSH
 
