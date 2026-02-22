@@ -15,3 +15,4 @@ A curated list of awesome projects and products built with [libghostty](https://
 
 - [cmux](https://github.com/manaflow-ai/cmux) - a Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [Ghostty](https://ghostty.org/) - a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [NeoShell](https://neoshell.app/) - a shell-first remote workspace for iPad, built around a real interactive SSH experience.
