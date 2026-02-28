@@ -18,3 +18,4 @@ A curated list of awesome projects and products built with [libghostty](https://
 - [NeoShell](https://neoshell.app/) - a shell-first remote workspace for iPad, built around a real interactive SSH experience.
 - [RootShell](https://github.com/kitknox/rootshell) - a terminal emulator built for Apple platforms featuring SSH, key storage, cloud provider integration, Kubernetes node debugging, and a mosh-compatible mode.
 - [webterm](https://github.com/rcarmo/webterm) - serves terminal sessions over HTTP/WebSocket.
+- [YEN](https://yen.chat) - Terminal-first IDE with native speech-to-text, stylish themes, and custom notifications. 
