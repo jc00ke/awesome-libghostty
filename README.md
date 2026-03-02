@@ -4,7 +4,7 @@ A curated list of awesome projects and products built with [libghostty](https://
 
 > [!IMPORTANT]
 > I've combined forces with a previously existing project,
-> please see [https://github.com/Uzaaft/awesome-libghostty] for future updates.
+> please see [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) for future updates.
 
 ## Contents
 
