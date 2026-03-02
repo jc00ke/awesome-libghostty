@@ -2,6 +2,10 @@
 
 A curated list of awesome projects and products built with [libghostty](https://mitchellh.com/writing/libghostty-is-coming).
 
+> [!IMPORTANT]
+> I've combined forces with a previously existing project,
+> please see [https://github.com/Uzaaft/awesome-libghostty] for future updates.
+
 ## Contents
 
 - [SSH](#ssh)
